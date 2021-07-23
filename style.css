@@ -152,4 +152,17 @@ p{
     border: 20px solid #999;
     outline: none;
 }
- 
+ button{
+     color: #fff;
+     width: 50%;
+     padding: 10px;
+     border-radius: 20px;
+     font-size: 15px;
+     margin: 10px 0;
+     border: none;
+     outline: none;
+     cursor: pointer;
+ }
+ .sign-btn{
+    background-color: #1c8adb;
+ }
