@@ -139,16 +139,17 @@ p{
      box-shadow: 0 0 3px 0 rgba(0,0,0,0,3);
      padding: 20px;
      margin: 8% auto;
+    
  }
 .sign-up-form h3{
     color: #1c8adb;
-    margin-bottom: 30px;
+    margin-bottom: 60px;
 }
 .input.box{
-    border-radius: 20px;
+    border-radius: 50px;
     padding: 40px;
     margin: 10px 0;
-    width: 100%;
+    width: 200%;
     border: 20px solid #999;
     outline: none;
 }
@@ -166,3 +167,9 @@ p{
  .sign-btn{
     background-color: #1c8adb;
  }
+ 
+ /* .title{
+    background: radial-gradient(#fff,#ffd6d6);
+    margin-top: 80px;
+    padding: 30px 0; */
+ /* } */
