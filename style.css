@@ -99,4 +99,8 @@ p{
      padding: 10px;
      min-width: 200px;
      margin-bottom: 50px;
+     transition: 1s;
+ }
+ .col-4:hover{
+     background:orchid;
  }
