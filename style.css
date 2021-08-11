@@ -37,6 +37,11 @@ p{
     padding-left: 25px;
     padding-right: 25px;
 }
+
+.slot{
+    text-align: right;
+    bottom: fixed;
+}
 .row{
     display: flex;
     align-items: center;
